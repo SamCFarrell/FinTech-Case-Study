@@ -47,10 +47,10 @@ Additionally, worsening economic conditions have caused financial markets to dec
 # Addendum
 ## Works Cited
 - https://bitcoin.org/bitcoin.pdf
-https://ethereum.org/en/whitepaper/
+- https://ethereum.org/en/whitepaper/
 - https://ethereum.org/en/upgrades/merge/#main-content
 - https://ethereum.org/en/dapps/
-https://ethereum.org/en/layer-2/
+- https://ethereum.org/en/layer-2/
 - https://academy.binance.com/en/articles/proof-of-stake-explained
 - https://www.youtube.com/watch?v=0GSDDjvwnDo
 - https://fortune.com/2022/09/15/ethereum-pulled-off-the-merge-now-what
