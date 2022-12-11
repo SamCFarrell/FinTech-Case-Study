@@ -1,60 +1,142 @@
-# The Ethereum Merge
+# FinTech Case Study
 
-## Overview and Origin
+## Background
 
-Ethereum is one of the most well-known projects in the cryptocurrency space. It is an open-source, blockchain-based software platform. This platform utilizes the underlying technology to create a secure, immutable network for distributed computation. Developers can use this network to build and operate Decentralized Applications (commonly referred to as Dapps) through the use of programs known as smart contracts.
+As a FinTech professional, it is critical to learn how FinTech companies start, evolve, and grow, and to be able to speak knowledgeably about the major players in the FinTech space. Even those in a highly technical role must stay abreast of what is happening in the business landscape, as many FinTech companies create tools and technologies that are then used by other companies.
 
-Ethereum was originally conceived in 2013 by programmer Vitalik BUterin. His original whitepaper from 2013 outlined the limitations of bitcoin and proposed a way to leverage blockchain technology for uses beyond just currency. The following year, him and 7 others went on to create the Ethereum Foundation. This non-profit developed the Ethereum platform, launched it in July of 2015, and continues to support it to this day.
+One of the key methods used to conduct corporate analysis is the **case study**. Case studies are often 50–100 pages or more, but your task is to create a more focused case study that analyzes how a FinTech company is responding to the problems and needs of the FinTech domain it is in, and how it is using technology to solve a standing financial problem.
 
-Ethereum functions in a similar way to a lot of popular cryptocurrencies Specifically, in how it uses cryptography and blockchain technology to verify and record transactions. 
+In this homework assignment, you will:
 
-To give a brief summary of the processes, transactions are collected into batches known as blocks. Validators race to add a block to the chain by solving very complex mathematical problems Whoever can do so the fastest is given a small reward for their efforts. This process is known as mining, and it secures the blockchain through the amount of computational work needed to accomplish and maintain it. The technical name for this is Proof-of-work and it’s how consensus is achieved across a decentralized network. However, while this Consensus Mechanism works well, it is far from perfect.
+* Select a Fintech domain that interests you, and then choose a company or project within that domain.
 
-I mentioned that miners are given a small reward for validating transactions. To use Bitcoin as an example, it's mining reward is 6.25 BTC at the time of writing. But when one BTC trades for around $20,000, the stakes are much higher as miners can earn about $125,000 per block. In order to remain competitive, miners must utilize additional computing power which requires a lot more electricity. Since power grids are usually powered by burning fossil fuels, this drastically increases carbon emissions and negatively impacts the environment. Because there can only be one winner per block, all of the energy spent by the losers is wasted and the environment is damaged for nothing.
+* Research the domain and company.
 
-Additionally, miners have the ability to pool their computing power to increase their chances of victory. Entire companies have been formed whose sole business model is Bitcoin mining. Miners also use specialized equipment which is usually prohibitively expensive. The average consumer simply doesn't have the resources required to compete with these massive entities. 
+* Write a detailed case study of the company.
 
-When combined all, of these factors mean that Proof-of-work cryptocurrencies are inefficient, environmentally unfriendly, and can be unfair to individual validators. When Ethereum was created, Proof-of-work was really the only type of consensus mechanism in wide use. As such, it has a lot of the same problems, albeit to a lesser extent. However, in the time since then, alternatives to proof-of-work have been created which attempt to address these issues.
+* Upload your case study to your git repository.
 
-The most popular alternative is known as Proof-of-Stake. Staking is essentially the act of leasing funds to the blockchain to support its operation. Validators are then selected at random to add a block of transactions. The more tokens staked by a user, the higher their probability of being selected. As well being given a validation reward, stakers are also paid an additional fee (similar to interest) for their contribution. This eliminates the hyper-competitiveness present in Proof-of-Work and thus makes the system much more efficient.
+This assignment will challenge you to polish your FinTech research skills by accessing reports, publications, and online resources that FinTech professionals use to evaluate the industry. It will also help you situate the techniques and technologies you will be mastering in this course––e.g., machine learning, Python, modeling, blockchain––within the real world of global FinTech. Finally, it will give you practice presenting and speaking about FinTech strategy and technology.
 
-Once this Consensus Mechanism became well-established, the Ethereum Foundation began exploring ways to transition Ethereum to proof-of-stake. This project eventually became known as "The Merge" and it was just completed.
+---
 
-## Landscape:
+## Instructions
 
-Since Its launch, the Ethereum network has become the bedrock for an entire ecosystem of Dapps and other blockchain-based tools. Everything from Decentralized finance (DeFi), Decentralized Autonomous Organizations (DAOs), Non-Fungible Tokens (NFTs), Stablecoins, and so much more. All built on one common infrastructure. Ethereum's native token, Ether (ETH), powers the network and has become the second-largest cryptocurrency by market cap.
+### 1. Choose a FinTech domain that you find relevant or interesting.
 
-However, Ethereum does have one major drawback: high transaction costs. These are referred to as "gas fees" and their cost varies depending on the specific transaction and its associated computational requirements. The capacity of each block is limited so gas fees are used to prioritize transactions and ensure they are executed quickly. Because so much is built on Ethereum, the network can become congested which further increases transaction costs. To solve this an additional ecosystem of scaling solutions has been created around Ethereum to reduce its workload and thus offset these high costs. 
+**Note:** We covered a number of FinTech domains in class this week. If you already have a company in mind that you want to research, skip ahead to Step 3.
 
-Now, because so much is linked with Ethereum, the foundation had to be very tactful when transitioning to Proof-of-stake. Any technical hiccup or user migration could cause a mass sell-off that crashes the entire crypto market. Their solution was to create a separate version of the Ethereum blockchain that uses Proof-of-Stake (referred to as the "Beacon Chain" or "Consensus Layer") and merge it with the original Proof-of-work Ethereum mainnet (known as the "Execution Layer"). That way the switch could happen seamlessly while keeping everything else the same as it was prior.
+* Payments/Billing
 
-The Beacon Chain was launched back in December of 2020 and has since undergone extensive testing. On September 15, 2022, The Merge finally executed when the latest version of the Ethereum protocol was released to the public. 
+* Capital Investment
 
-## Results
+* Investment Management
 
-Because the merge happened so recently, the results are only just starting to reveal themselves. However, we do know that since The Merge Ethereum's energy consumption has dropped by approximately 99.95%. The price of ETH has also remained relatively stable, and no major technical issues or have been reported. The project, therefore accomplished exactly what it set out to do (and then some).
+* Wealth Management
 
-The Merge also effected the tokenomics of Ether. Previously, new ETH tokens were created through mining. Because mining has been done away with and because staking rewards are generally lower, the rate at which new currency enters circulation has dropped dramatically. Some estimates put the exact reduction in inflation at approximately 90%.
+* Enterprise Solutions
 
-## Recommendations
+* Insurance (InsurTech)
 
-While The Merge is certainly an important event, it was focused primarily on the transition to Proof-of-stake and not so much on functionality thereafter. As such, there were a few anticipated features of post-merge Ethereum that weren't included. The most notable example being the ability to withdrawal staked ETH. I recommend that this issue be rectified immediately. No investor worth their salt is going to be willing to enter a position which they cannot exit.  
+* Mortgage/Real Estate
 
-Furthermore, The Merge didn't fix every preexisting issue with Ethereum. Transaction costs are still absurdly high because the execution layer remained unchanged. The Ethereum Foundation is planning to address this issue in future updates. While The Merge makes these updates possible, it alone isn't enough to drive demand. 
+* Personal Finance/Deposits/Online Banking
 
-Additionally, worsening economic conditions have caused financial markets to decline significantly over the past few months. Because crypto markets are especially volatile, I cannot advise purchasing ETH in anticipation for future updates and highly advise against staking for the reasons mentioned above. We'll just have to wait out the current bear market see what happens next.
+* Lending
 
-# Addendum
-## Works Cited
-- https://bitcoin.org/bitcoin.pdf
-- https://ethereum.org/en/whitepaper/
-- https://ethereum.org/en/upgrades/merge/#main-content
-- https://ethereum.org/en/dapps/
-- https://ethereum.org/en/layer-2/
-- https://academy.binance.com/en/articles/proof-of-stake-explained
-- https://www.youtube.com/watch?v=0GSDDjvwnDo
-- https://fortune.com/2022/09/15/ethereum-pulled-off-the-merge-now-what
-- https://www.blocknative.com/blog/why-eth-gas-fees-high#:~:text=Because%20there%20is%20limited%20space,which%20requires%20a%20gas%20fee.
-- https://cointelegraph.com/ethereum-for-beginners/what-is-ethereum-a-beginners-guide-to-eth-cryptocurrency
-- https://cointelegraph.com/blockchain-for-beginners/proof-of-stake-vs-proof-of-work:-differences-explained
-- https://www.web3.university/article/the-ethereum-merge
+* Blockchain and Cryptocurrencies
+
+* Regulation Technology (RegTech)
+
+* Open Banking
+
+* Robo-advising
+
+Remember that because FinTech is an evolving field, different FinTech reports may use different names and definitions for various domains and sectors (e.g., CB Insights, Investopedia, Accenture). In addition, you may come across lists of FinTech domains online that are either longer or shorter than the list above; there is no one comprehensive list.
+
+### 2. Choose a company (or project) within  your chosen Fintech domain.
+
+Use online research to identify the trends in your domain, and choose a company that is successful or otherwise interesting to you. For example, if you chose Wealth Management, you may want to look at online journals, periodicals, reports, and websites about the future of Wealth Management, or how FinTech is changing or disrupting Wealth Management.
+
+Your company could be:
+
+* A new, emerging FinTech company that is doing well in a particular domain. Examples include Square, Plaid, Lemonade, RobinHood, and Coinbase.
+
+* A large incumbent financial or technology company that is doing something interesting and new with technology. Examples include Goldman Sachs’ Marcus, JP Morgan’s JPMCoin, Facebook Libra, and Apple Card.
+
+* A smaller start-up that is not yet wildly successful, but that you find promising and interesting. This may include a FinTech company in your local area or a company with a new idea that you would like to learn more about.
+
+### 3. Conduct your research, using the case study template as a guide.
+
+We recommend that you use the case study template below in order to focus your research. You may lengthen, shorten, or––if necessary––remove sections from the template to accommodate the information available about your company.
+
+**Note** If you have chosen a project within a larger company (such as the Apple Credit Card), you may want to focus your research on the origins and scope of the project rather than on the company itself.
+
+### 4. Write the case study.
+
+Write the finished case study report in a markdown `README.md` file, using the above case study template. Your report should be sufficiently long to ensure you provide all relevant information about the company or project in a thorough manner.
+
+Be sure to cite your sources in an addendum at the end of the report. List all websites, podcasts, blogs, or articles that you consulted in order to write the report, and provide links. Your list should be thorough and account for all sources you used, but it does not need to be a formal works cited page.
+
+### 5. Upload your case study to your git repository.
+
+You learned some technical aspects of FinTech this week, including how to set up and populate a git repository. As a final step, take your finished case study and upload it to a repository to share with your instructor and class.
+
+---
+
+## Case Study Template
+
+**-TITLE-**
+
+**Overview and Origin**
+
+* Name of company
+
+* When was the company incorporated?
+
+* Who are the founders of the company?
+
+* How did the idea for the company (or project) come about?
+
+* How is the company funded? How much funding have they received?
+
+
+**Business Activities**
+
+* What specific financial problem is the company or project trying to solve?
+
+* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+
+* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+
+
+**Landscape**
+
+* What domain of the financial industry is the company in?
+
+* What have been the major trends and innovations of this domain over the last 5-10 years?
+
+* What are the other major companies in this domain?
+
+
+**Results**
+
+* What has been the business impact of this company so far?
+
+* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+
+* How is your company performing relative to competitors in the same domain?
+
+
+**Recommendations**
+
+* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+
+* Why do you think that offering this product or service would benefit the company?
+
+* What technologies would this additional product or service utilize?
+
+* Why are these technologies appropriate for your solution?
+
+---
